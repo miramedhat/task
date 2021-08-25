@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df10ee34-feb2-42c4-8912-43eec78a4fa5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/automationtask" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1x7X61RE9AjKPQovrfzX21QvcK2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BaseTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.BaseTests" />
+      <module name="task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersTests.testSuccessfulCheckOut" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="orders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="payment" />
+      <option name="MAIN_CLASS_NAME" value="orders.OrdersTests" />
+      <option name="METHOD_NAME" value="testSuccessfulCheckOut" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersTests.testSuccessfulCheckOutwithNewUserAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="orders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="payment" />
+      <option name="MAIN_CLASS_NAME" value="orders.OrdersTests" />
+      <option name="METHOD_NAME" value="testSuccessfulCheckOutwithNewUserAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersTests.testSuccessfulCheckOutwithRegisteredUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="orders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="payment" />
+      <option name="MAIN_CLASS_NAME" value="orders.OrdersTests" />
+      <option name="METHOD_NAME" value="testSuccessfulCheckOutwithRegisteredUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OrdersTests.testSuccessfulCheckOutwithRegisteredUser" />
+        <item itemvalue="TestNG.OrdersTests.testSuccessfulCheckOutwithNewUserAccount" />
+        <item itemvalue="TestNG.OrdersTests.testSuccessfulCheckOut" />
+        <item itemvalue="Application.BaseTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df10ee34-feb2-42c4-8912-43eec78a4fa5" name="Default Changelist" comment="" />
+      <created>1629706921385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629706921385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1629795484905">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="478" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.826@0.23.1440.826" timestamp="1629795484905" />
+    <state x="543" y="333" key="Github.CreateGistDialog" timestamp="1629795472391">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="543" y="333" key="Github.CreateGistDialog/0.23.1440.826@0.23.1440.826" timestamp="1629795472391" />
+    <state width="1358" height="258" key="GridCell.Tab.0.bottom" timestamp="1629899227135">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1629794760452" />
+    <state width="1358" height="258" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1629895170587" />
+    <state width="1358" height="258" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1629898959572" />
+    <state width="1358" height="258" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1629899227135" />
+    <state width="1358" height="258" key="GridCell.Tab.0.center" timestamp="1629899227133">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1629794760451" />
+    <state width="1358" height="258" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1629895170585" />
+    <state width="1358" height="258" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1629898959571" />
+    <state width="1358" height="258" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1629899227133" />
+    <state width="1358" height="258" key="GridCell.Tab.0.left" timestamp="1629899227130">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1629794760451" />
+    <state width="1358" height="258" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1629895170585" />
+    <state width="1358" height="258" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1629898959571" />
+    <state width="1358" height="258" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1629899227130" />
+    <state width="1358" height="258" key="GridCell.Tab.0.right" timestamp="1629899227134">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1629794760452" />
+    <state width="1358" height="258" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1629895170587" />
+    <state width="1358" height="258" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1629898959572" />
+    <state width="1358" height="258" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1629899227134" />
+    <state width="1358" height="258" key="GridCell.Tab.1.bottom" timestamp="1629899227137">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1629794515604" />
+    <state width="1358" height="258" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1629895170592" />
+    <state width="1358" height="258" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1629898959368" />
+    <state width="1358" height="258" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1629899227137" />
+    <state width="1358" height="258" key="GridCell.Tab.1.center" timestamp="1629899227136">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1629794515603" />
+    <state width="1358" height="258" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1629895170589" />
+    <state width="1358" height="258" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1629898959368" />
+    <state width="1358" height="258" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1629899227136" />
+    <state width="1358" height="258" key="GridCell.Tab.1.left" timestamp="1629899227135">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1629794515603" />
+    <state width="1358" height="258" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1629895170587" />
+    <state width="1358" height="258" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1629898959367" />
+    <state width="1358" height="258" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1629899227135" />
+    <state width="1358" height="258" key="GridCell.Tab.1.right" timestamp="1629899227136">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1629794515603" />
+    <state width="1358" height="258" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1629895170590" />
+    <state width="1358" height="258" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1629898959368" />
+    <state width="1358" height="258" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1629899227136" />
+    <state x="241" y="66" key="SettingsEditor" timestamp="1629709274351">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="241" y="66" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1629709274351" />
+    <state x="417" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1629888827396">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="417" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1629888827396" />
+  </component>
+</project>
