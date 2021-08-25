@@ -27,7 +27,7 @@ public class OrdersTests extends BaseTests {
     public void testSuccessfulCheckOutwithNewUserAccount() throws InterruptedException {
         AuthenticationPage authenticationPage = homePage.clickOnSignInBtn();
         SignUpPage signUpPage = authenticationPage.createAccount();
-        signUpPage.fillSignUpFields("Mira", "Medhat", "Mira@123", "123 test", "Maadi",
+        signUpPage.fillSignUpFields("Mira", "Medhat", "Mira@123", "Maadi",
                 "Cairo", "Alabama", "12345", "01226278675");
         BlousesPage blousesPage = homePage.clickBlouses();
         SelectedProductPage selectedProductPage = blousesPage.selectBlouse();

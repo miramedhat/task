@@ -31,14 +31,12 @@ public class SignUpPage {
         select.selectByVisibleText(value);
     }
 
-    public HomePage fillSignUpFields(String fName, String lName, String pwd, String addressName, String addressDetails, String cityName,
+    public HomePage fillSignUpFields(String fName, String lName, String pwd, String addressDetails, String cityName,
                                      String stateName, String postCode, String phone) {
         driver.findElement(maleGender).click();
         driver.findElement(firstName).sendKeys(fName);
         driver.findElement(lastName).sendKeys(lName);
         driver.findElement(password).sendKeys(pwd);
-        driver.findElement(addressFName).sendKeys(addressName);
-        driver.findElement(addressLName).sendKeys(addressName);
         driver.findElement(address).sendKeys(addressDetails);
         driver.findElement(city).sendKeys(cityName);
         selectFromDropDown(stateName);
